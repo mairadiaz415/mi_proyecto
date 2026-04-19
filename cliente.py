@@ -1,6 +1,6 @@
 # Importamos la excepción personalizada
 from excepciones import ErrorCliente
-
+# ejemplo
 class Cliente:
     def __init__(self, nombre, email):
         # Atributos privados (doble guion bajo)
